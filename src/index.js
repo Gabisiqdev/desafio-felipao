@@ -1,2 +1,2 @@
 let nome = "felipe"
-console.log (nome)
+console.log(nome)
